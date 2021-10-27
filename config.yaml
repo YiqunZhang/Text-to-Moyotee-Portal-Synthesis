@@ -1,0 +1,11 @@
+
+
+
+# moyotee dataset
+moyotee_images_path: '/export/mlrg/aelnouby/projects/GANs/moyotee_dataset/'
+moyotee_embedding_path: '/export/mlrg/aelnouby/projects/GANs/moyotee_dataset/moyotee_icml/'
+moyotee_text_path: '/export/mlrg/aelnouby/projects/GANs/moyotee_dataset/cvpr2016_moyotee/text_c10/'
+moyotee_dataset_path: 'data/moyotee.hdf5'
+moyotee_val_split_path: '/export/mlrg/aelnouby/projects/GANs/moyotee_dataset/moyotee_icml/valclasses.txt'
+moyotee_train_split_path: '/export/mlrg/aelnouby/projects/GANs/moyotee_dataset/moyotee_icml/trainclasses.txt'
+moyotee_test_split_path: '/export/mlrg/aelnouby/projects/GANs/moyotee_dataset/moyotee_icml/testclasses.txt'
